@@ -1,3 +1,3 @@
-Lecture 1
+Introduction to Computer Security
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+This chapter will give you a brief idea about basic computer security concepts which are important in understanding cloud security concepts.
